@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "city-storage-line-user",
+  "private_key_id": "9406c2c9af7d23a4570f6d2e5ff89d889b14141d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjBLdPIZ08qEEc\n1/KQDpR/fvauiIwU9VynfmwLFWVj8ovQgH1OC1BIdJjOqhG8S+ie9Kr+ScwUQZjq\nkrbF+oOQbMIBH3VzxcIbSJRGEknEDYi7f2SPnBPaRsD02hx4kDtEeb3Yw7XDlThT\nV2V/6qeqZknAIzrUsuDIRYygULGwQJbbCAw6F+EEfx1cXh8fpWsrzgVoapa57TMg\nglcxS7JkHZKWqsIg2cZkVN91frc9ZWmPmiaR93rV2mWwJF6JUgThoSOmtiIIhdnh\nvd8DqOwRGPCO0ztGIL1myEwJ3mGTqOsBxrolCRV5Yubahp9xeeF7p4aYSKC+RmVV\nZG9hZshJAgMBAAECggEACW/ydMBLbAGJk3Pk9PYDHsZo3X3GLkhuDrxA4PtiHUEj\nWvS1TFlXUnp9hilOUYpLczhS1dnL2Lhbc+j+b8Oq7id9q7b4g7VFIXM4Mj5IyvLF\noaUkWzP76j0CWqptz4T6CWLK3MunsCTpV9nNZHRfNHwrdNYVR877OFzeYUGKp9td\nosjWPC1Gi05xU7wuB6ksflj00PrYDvHcLOQSdrMLoNRN+0mzgH2+V8TjxgV41O8S\nHGhjCmnrumwgkEZGbjdQOtHImHAJczrCozxtt0QXJit7EXhdOrDf7l7LRKCqp8/j\nzA8e2/EGKGOgE33m4ERZlSks3cxuoSMopHcRgPByaQKBgQDeouftRH9ANnRuKqgK\nhA0XHLIegh9HUf8d0mkFG+EpacotDWGwRWVxIcNbwEwB8pxljW8ST/SGgTWfYfKq\na4461s70R2LAAlUs/DL9muqpVqhnN8ai/IDkQ1y9ZMbQCZFFp2vkG0F7m78s1ONh\nRN0faOCbvAojwdzM+HfCiID27wKBgQC7cqluYF/miOF7XIYN3v0gIra+9W52SSq8\nL/0GUx8TceVbk9U6u+1TrGvCZeX/wdFP4rD8lmzhahxGE28xc5w4BHo8t6zcvj9k\n1WlZQ+o58GCHYvaNA/u1BdEy6wAitpbLjBbk8ivctKEhlpNLQMWod0N5b8qsHNCT\nqkU0ViJ0RwKBgFSh1spyPHFbgf0TCBgfRJ6hkPBaBKvm9rUOdE+13m0QwwNHT/hj\nGQHdlNb/DaW75UoRbsSmUk0DNzAkWsv/4OxrFfb0YAyflmNoZ7XSOxwuTgwWvtLc\na97Z4Jo6gf05ddjloPTwi38CoLTZJKqoM+qpwqBQ5gXbvyTH2za/D09PAoGBALnQ\nklCOTMK00gB92Y2KjRX8E3f8yAGNykU+tO4+G8Ik154OUAOnIz4c372XUYZU1W8B\nYz0gyNIzY8+7mDBHUIbfOWVTFpLELQeB3qrUfi3tMWNEIO/tEOmD2LtG5Z2Drrwc\nJN3TitOAY3JuV5jznny/rS2GOjyfW8vlsDCPahwlAoGANnifPqrJveE8tr/3+1ga\nKVx84ssaMQiQ+pQnivyOjSnjaLBrTc7IuYo3NMpc/38rq3Z2L+SC0ayE3bkrWh1R\novoX3Q3pgSjSZWF7ThSMr/reJnMd2DD/xhHVRUzk7JzOX0ERl9uNU4zkcmw6tbQf\naJ4r6i+qsgbQKIe9gGwPzbU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "linecitystorage@city-storage-line-user.iam.gserviceaccount.com",
+  "client_id": "106125649325844963408",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/linecitystorage%40city-storage-line-user.iam.gserviceaccount.com"
+}
